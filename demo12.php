@@ -6,7 +6,7 @@ if ($age < "18") {
   echo "Vaccine is yet to develop!";
 } 
  elseif($age >= "18" && $age < "45"){
- echo "Vaccine starts in 15 days";
+ echo "Vaccine starts in 15 day";
  }
 else {
   echo "Vaccine started , Get vaccinated soon";
